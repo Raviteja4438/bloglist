@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.blog-list {
+  width: 70%;
+  padding-left: 0px;
+  margin: auto;
+}
+
+@media screen and (min-width: 1200px) {
+  .blog-list {
+    width: 95%;
+  }
+}
